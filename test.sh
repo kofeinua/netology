@@ -10,6 +10,6 @@ echo dentrie и inode кэши | sudo tee -a /proc/sys/vm/drop_caches
 #Чистим pagecache, dentrie и inode кэши:
 sync
 echo Чистим pagecache, dentrie и inode кэши | sudo tee -a /proc/sys/vm/drop_caches
-echo "Стало свободно в ОЗУ"
+echo "Стало свободно ОЗУ"
 free
 exit 0
