@@ -1,2 +1,2 @@
 # netology
-PREVED MEDVED
+Очистка кэш test.sh
